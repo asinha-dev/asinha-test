@@ -1,2 +1,7 @@
 Hello ,I am Ashutosh Sinha
 Welcome to my test repo <end of main remote repo>
+
+
+
+Hi Github user, welcome to local dir.
+saving changes into the file.
