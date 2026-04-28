@@ -1,0 +1,2 @@
+This is the 2nd file being added from remote repo.
+should be the 3 rd commit(1st from remote, 2nd from local dir, 3 is this one)
